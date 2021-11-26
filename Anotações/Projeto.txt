@@ -2,3 +2,9 @@ Arquivo-Projeto-Git-Dio
 
 Inicio de tudo. 
 Aqui será um repositório de tudo que eu aprendo em programação.
+
+## O que eu fiz hoje  
+ - Aprendi a usar git clone link  
+ - Aprendi a usar comandos git add* e git commit -m "mensagem" para adicionar e commitar mudanças  
+  - Aprendi a dar git push origin main para sincronizar com o servidor do github  
+  - Aprendi a commitar pelo proprio github
